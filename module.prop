@@ -1,0 +1,8 @@
+id=AxManager_AEE
+name=AxManager辅助增效(AEE)
+version=v1.0R
+versionCode=2
+author=墨羽
+description=刷入后台自动辅助保活，执行是解决一般性崩溃问题
+banner=image.png
+axeronPlugin=14400
