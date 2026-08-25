@@ -1,0 +1,5 @@
+v1.0 Release
+增加一键禁用所有插件，点击执行，然后重启AxManager即可
+
+v1.0 Alpha
+完成service保活
