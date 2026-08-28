@@ -1,6 +1,6 @@
 {
-  "version": "v1.2 Release",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/Qingyu-ch/AxManager_AEE/releases/download/v1.2Release/v1.2_Release.zip",
+  "version": "v1.3 Beta",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/Qingyu-ch/AxManager_AEE/releases/download/v1.3Beta/v1.3_Beta.zip",
   "changelog": "https://raw.githubusercontent.com/Qingyu-ch/AxManager_AEE/refs/heads/main/changelog.txt"
 }
