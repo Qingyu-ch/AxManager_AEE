@@ -1,3 +1,7 @@
+v1.3 Beta
+重构代码，优化模块检测逻辑，修复service部分功能不生效的问题，增加禁用（熔断）白名单（Beta版不稳定，最好等Release再更新）；
+Refactor code, optimize module detection logic, fix the issue where some service functions are not working, add a disable (circuit breaker) whitelist (Beta version is unstable, better to wait for Release before updating).
+
 v1.2 Release
 微调界面，提高可读性，并为每一个新增功能提供WebUI开关（默认开启，需要请自行关闭）；新增分辨率与DPI监控，遇到恶意脚本可以进行有限自救；增加通知提醒，完善可知性
 
